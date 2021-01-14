@@ -5,6 +5,7 @@
 // @description  highlights cards that have been requested
 // @author       9003
 // @match        https://www.nationstates.net/*page=deck*
+// @updateURL    https://github.com/jmikk/GCG-popup/raw/main/GCG.user.js
 // @noframes
 // @grant        GM.xmlHttpRequest
 // @grant        GM.setValue
